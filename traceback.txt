@@ -1,0 +1,23 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 284, in script
+    jump talk3
+renpy.script.LabelNotFound: could not find label 'talk3'. Did you mean: 'talk1'?
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/script.rpy", line 284, in script
+    jump talk3
+  File "renpy/ast.py", line 1928, in execute
+    rv = renpy.game.script.lookup(target)
+         ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "renpy/script.py", line 1201, in lookup
+    raise LabelNotFound(original)
+renpy.script.LabelNotFound: could not find label 'talk3'. Did you mean: 'talk1'?
+
+Windows-11-10.0.26200-SP0 AMD64
+Ren'Py 8.5.2.26010301
+The dim light 1.0
+Sun Mar  8 01:56:03 2026
