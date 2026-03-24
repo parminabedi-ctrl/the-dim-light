@@ -8,7 +8,7 @@ Software used to make the game: Renpy
 Type of game: Visual novel
 
 How to play:
-1. Go to this link: https://anya369.itch.io/the-dim-light
+1. Go to this link: https://anya369.itch.io/the-dim-light (This is the newer version of the game. The game has been updated and is not to date with this repo, it is up to date with the repo "the-dim-light2")
 2. There should be a gray screen showing in the middle of the page. Click the button saying "RUN GAME".
 3. Wait for the game to load
 4. Now you are in the game screen!
